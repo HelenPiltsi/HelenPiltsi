@@ -5,27 +5,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=895&height=44&lines=Computer%20Science%20%7C%20Backend%20Development%20%7C%20Machine%20Learning;Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20Time-Series%20Forecasting" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=880&height=44&lines=Software%20Development%20%E2%80%A2%20Backend%20%E2%80%A2%20Data%20%26%20Machine%20Learning" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Computer Science at the University of Crete, with hands-on experience in backend development, data processing, and machine learning. I enjoy turning ideas and data into working software.
+I'm completing my B.Sc. in Computer Science at the University of Crete, with hands-on experience in backend development, data processing, and machine learning. I enjoy building useful, well-structured software and working with real-world data.
 
-🔭 &nbsp;I'm currently working on **My bachelor's thesis and research work at ICS-FORTH**  
-🌱 &nbsp;I'm currently learning **software engineering and machine learning**  
+🔭 &nbsp;I'm currently working on **my bachelor's thesis and research work at ICS-FORTH**  
 👯 &nbsp;I'm looking to collaborate on **backend, data, and machine learning projects**  
-💬 &nbsp;Ask me about **Python, REST APIs, and time-series forecasting**
+💬 &nbsp;Ask me about **Python, REST APIs, FastAPI, and time-series forecasting**
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
